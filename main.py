@@ -8,7 +8,7 @@ from aiogram.dispatcher import FSMContext
 from aiogram.types import InputFile, MediaGroup
 
 logging.basicConfig(level=logging.INFO)
-bot = Bot('7975170508:AAHvhsDP9mRrXveNFhgZV737Xfz5NDqMmRQ')
+bot = Bot('7875616132:AAF8COtE-50RibhF9nfU4mc5aE5z-ZvtInc')
 storage = MemoryStorage()
 dp = Dispatcher(bot, storage=storage)
 
